@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootProfilesApplication {
 
 	public static void main(String[] args) {
+		System.out.println("springboot profiels with  github");
 		SpringApplication.run(SpringBootProfilesApplication.class, args);
 	}
 
