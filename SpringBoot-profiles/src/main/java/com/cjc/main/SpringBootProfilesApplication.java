@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootProfilesApplication {
 
 	public static void main(String[] args) {
-		System.out.println("message from github");
+		//System.out.println("message from github"); pulled successfully
 		System.out.println("springboot profiles with  github");
 		SpringApplication.run(SpringBootProfilesApplication.class, args);
 	}
